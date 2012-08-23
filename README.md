@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/pvorb/node-api.png)](http://travis-ci.org/pvorb/node-api)
 api
 ===
 
